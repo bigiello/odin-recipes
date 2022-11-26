@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+}
+
+a {
+	font-size: 20px;
+	color: black;
+}
+
+h1 {
+	margin-left: 20px;
+	font-size: 40px;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
